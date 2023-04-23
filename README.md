@@ -1,4 +1,4 @@
-🐱‍💻 Jotting down my journey learning bug bounty hunting 
+⚔️ Notes from learning cyber threat intelligence
 
 > assets > notes
 
