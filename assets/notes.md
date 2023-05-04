@@ -4,10 +4,10 @@ Week One - Four (May 2023)
 1. Sherman Kent and the Profession of Intelligence Analysis, Occasional Papers: Volume 1, Number 5
 2. Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper
 3. Intelligence Cycle
+4. Cliff Stoll's The Cuckoo's Egg 
 
 Next
 5. Richards J. Heuer's Psychology of Intelligence Analysis (big book)
-6. Cliff Stoll's The Cuckoo's Egg 
 
 
 
