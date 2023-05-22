@@ -7,6 +7,9 @@ Note: analogy robber going from house to house trying to open the front door, so
 
 
 
+
+
+
 Next
 2. Sherman Kent and the Profession of Intelligence Analysis, Occasional Papers: Volume 1, Number 5
 3. Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper
