@@ -5,7 +5,8 @@ Week One - Four (May 2023)
 Progress update: have been sick so reading this instead. 
 Note: analogy robber going from house to house trying to open the front door, sometimes tries a window
 
-
+1 June 2023
+Back from a road trip. Was talking to my co-driver about The Cuckoo's Egg. 
 
 
 
