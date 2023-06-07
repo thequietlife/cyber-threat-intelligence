@@ -8,6 +8,12 @@ Note: analogy robber going from house to house trying to open the front door, so
 1 June 2023
 Back from a road trip. Was talking to my co-driver about The Cuckoo's Egg
 
+6 June 2023
+Finished Cliff Stoll's The Cuckoo's Egg. So not high tech abilities. Just persistence. Trying different ways to log on using a small range of passwords. Like 'admin', 'admin'. Last week I read a pen test report Volkis released. There was a list of passwords that the client's team members were using which included 'Welcome1' and variations of 'pa$$w0rd'. eek. 1989 vs 2023. 
+
+7 June 2023
+Reading Mandiant's CTI Analyst Core Competencies Framework
+
 
 
 
