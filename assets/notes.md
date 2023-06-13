@@ -14,6 +14,8 @@ Finished Cliff Stoll's The Cuckoo's Egg. So not high tech abilities. Just persis
 11 June 2023
 Reading Mandiant's CTI Analyst Core Competencies Framework
 
+13 June 2023
+Following Cosive's Cyber Threat Intelligence (CTI) Crash Course
 
 
 
