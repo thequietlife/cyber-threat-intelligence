@@ -21,6 +21,11 @@ CTI Analyst Core Competencies Pillars:
 |--- Technical Literacy ---|--- enterprise IT networks, cyber security ecosystem, roles and responsibilities ---|
 |--- Cyber Threat Proficiency ---|---drivers of offensive operations, threat concepts and frameworks, threat actors and tactics, techniques, and procedures (TTPs)---|
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 13 June 2023
 Had a look at Cosive's Cyber Threat Intelligence (CTI) Crash Course
 
