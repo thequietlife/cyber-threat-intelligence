@@ -14,11 +14,6 @@ Finished Cliff Stoll's The Cuckoo's Egg. So not high tech abilities. Just persis
 14 June 2023
 Reading Mandiant's CTI Analyst Core Competencies Framework
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
 | CTI Analyst | Core Competencies Pillars|
 | --- | --- |
 | Problem Solving | critical thinking, research and analysis, investigative mindset |
