@@ -11,31 +11,28 @@ Back from a road trip. Was talking to my co-driver about The Cuckoo's Egg
 6 June 2023
 Finished Cliff Stoll's The Cuckoo's Egg. So not high tech abilities. Just persistence. Trying different ways to log on using a small range of passwords. Like 'admin', 'admin'. Last week I read a pen test report Volkis released. There was a list of passwords that the client's team members were using which included 'Welcome1' and variations of 'pa$$w0rd'. eek. 1989 vs 2023. 
 
-11 June 2023
+14 June 2023
 Reading Mandiant's CTI Analyst Core Competencies Framework
 
-CTI Analyst Core Competencies Pillars:
-
-| Problem Solving | critical thinking, research and analysis, investigative mindset |
+| CTI Analyst Core Competencies Pillars|
 | --- | --- |
+| Problem Solving | critical thinking, research and analysis, investigative mindset |
 | Professional Effectiveness |communication, teamwork and emotional intelligence, business acumen |
 | Technical Literacy | enterprise IT networks, cyber security ecosystem, roles and responsibilities |
 | Cyber Threat Proficiency | drivers of offensive operations, threat concepts and frameworks, threat actors and tactics, techniques, and procedures (TTPs) |
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-13 June 2023
-Had a look at Cosive's Cyber Threat Intelligence (CTI) Crash Course
+refresh on making a table in markdown
 
 14 June 2023
+Had a look at Cosive's Cyber Threat Intelligence (CTI) Crash Course
+
 Watched Cyber Threat Intelligence Explained and How Install MISP Threat Intelligence Platform with Docker, John Hubbard - referred to in the Cosive blog post
 
-Strategic - broad info, relevant groups and goals
-Operational - short term trends, builds bigger picture from IOCs
-Tactical - used daily by SOC for detection, IOCs: hashes, IPs, domains etc
+| --- | --- |
+
+| Strategic | broad info, relevant groups and goals |
+| Operational | short term trends, builds bigger picture from IOCs |
+| Tactical | used daily by SOC for detection, IOCs: hashes, IPs, domains etc |
 
 Had a look at MISP. pretty cool open source
 
