@@ -16,7 +16,7 @@ Reading Mandiant's CTI Analyst Core Competencies Framework
 
 CTI Analyst Core Competencies Pillars:
 
-|--Problem Solving--|--critical thinking, research and analysis, investigative mindset--|
+| -- Problem Solving -- | -- critical thinking, research and analysis, investigative mindset -- |
 
 |--Professional Effectiveness--|--communication, teamwork and emotional intelligence, business acumen--|
 
