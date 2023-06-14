@@ -19,7 +19,7 @@ Reading Mandiant's CTI Analyst Core Competencies Framework
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
-| CTI Analyst Core Competencies Pillars|
+| CTI Analyst | Core Competencies Pillars|
 | --- | --- |
 | Problem Solving | critical thinking, research and analysis, investigative mindset |
 | Professional Effectiveness |communication, teamwork and emotional intelligence, business acumen |
