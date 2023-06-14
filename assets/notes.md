@@ -28,7 +28,7 @@ Had a look at Cosive's Cyber Threat Intelligence (CTI) Crash Course
 
 Watched Cyber Threat Intelligence Explained and How Install MISP Threat Intelligence Platform with Docker, John Hubbard - referred to in the Cosive blog post
 
-| Cyber Threat Intell | Three Types | 
+| Three Types | Cyber Threat Intelligence | 
 | --- | --- |
 | Strategic | broad info, relevant groups and goals |
 | Operational | short term trends, builds bigger picture from IOCs |
