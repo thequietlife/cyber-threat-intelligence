@@ -6,13 +6,18 @@ Progress update: have been sick so reading this instead.
 Note: analogy robber going from house to house trying to open the front door, sometimes tries a window
 
 1 June 2023
-Back from a road trip. Was talking to my co-driver about The Cuckoo's Egg
+Back from a road trip. Was talking to my co-driver about The Cuckoo's Egg - about the above analogy
 
 6 June 2023
 Finished Cliff Stoll's The Cuckoo's Egg. So not high tech abilities. Just persistence. Trying different ways to log on using a small range of passwords. Like 'admin', 'admin'. Last week I read a pen test report Volkis released. There was a list of passwords that the client's team members were using which included 'Welcome1' and variations of 'pa$$w0rd'. eek. 1989 vs 2023. 
 
 14 June 2023
 Reading Mandiant's CTI Analyst Core Competencies Framework
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 | CTI Analyst Core Competencies Pillars|
 | --- | --- |
