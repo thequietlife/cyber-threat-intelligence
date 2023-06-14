@@ -17,15 +17,9 @@ Reading Mandiant's CTI Analyst Core Competencies Framework
 CTI Analyst Core Competencies Pillars:
 
 |Problem Solving|critical thinking, research and analysis, investigative mindset|
-|-----------------|--------------------------------------------------------------------- |
-|-----------------|--------------------------------------------------------------------- |
-|-----------------|--------------------------------------------------------------------- |
-
-
-| - Problem Solving - critical thinking, research and analysis, investigative mindset - |
-| - Professional Effectiveness - communication, teamwork and emotional intelligence, business acumen - |
-| - Technical Literacy - enterprise IT networks, cyber security ecosystem, roles and responsibilities - |
-| - Cyber Threat Proficiency - drivers of offensive operations, threat concepts and frameworks, threat actors and tactics, techniques, and procedures (TTPs) - |
+|Professional Effectiveness|communication, teamwork and emotional intelligence, business acumen |
+|Technical Literacy|enterprise IT networks, cyber security ecosystem, roles and responsibilities |
+|Cyber Threat Proficiency|drivers of offensive operations, threat concepts and frameworks, threat actors and tactics, techniques, and procedures (TTPs)|
 
 13 June 2023
 Had a look at Cosive's Cyber Threat Intelligence (CTI) Crash Course
