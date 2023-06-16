@@ -45,11 +45,9 @@ Had a look at MISP. pretty cool open source
 | 3. Intellectual Rigor | information is rigorously evaluated for validity. evaluated and organized data |
 | 4. Conscious Effort to Avoid Analytic Biases | resist the tendency to see what they expect to see in the information. make working assumptions explicit and to challenge them vigorously |
 | 5. Willingness to Consider Other Judgments | assemble 20 or 30 analysts with a wide range of factual expertise and p.o.v to review a draft assessment, review para by para |
-| 6. Systematic Use of Outside Experts | consider a wide range of outside opinions. News media accounts and general and specialized journals should be reviewed
-for the same purposes |
+| 6. Systematic Use of Outside Experts | consider a wide range of outside opinions. News media accounts and general and specialized journals should be reviewed |
 | 7. Collective Responsibility for Judgment | permit challenge and refinement of data and judgment. represent and defend the appropriate corporate point of view |
-| 8. Effective communication of policy-support information and judgments | shorter is usually better, with key points stated
-quickly. But clarity of judgment is also essential |
+| 8. Effective communication of policy-support information and judgments | shorter is usually better, with key points stated |
 | 9. Candid Admission of Mistakes | review performance to search for improved practices as well as to study mistakes |
 
 Next
