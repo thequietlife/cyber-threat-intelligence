@@ -34,7 +34,7 @@ Watched Cyber Threat Intelligence Explained and How Install MISP Threat Intellig
 
 Had a look at MISP. pretty cool open source
 
-**16 June 2023**
+**15 June 2023**
 Sherman Kent and the Profession of Intelligence Analysis, Occasional Papers: Volume 1, Number 5 
 
 | Sherman Kent’s analytic doctrine | 9 principles |
@@ -49,12 +49,11 @@ Sherman Kent and the Profession of Intelligence Analysis, Occasional Papers: Vol
 | 8. Effective communication of policy-support information and judgments | shorter is usually better, with key points stated |
 | 9. Candid Admission of Mistakes | review performance to search for improved practices as well as to study mistakes |
 
+**16 June 2023**
+Intelligence Cycle
+six steps: requirements, planning and direction, collection, processing and exploitation, analysis and production, and dissemination. The cycle is circular in nature and the movement between the steps is fluid.
+
+
 Next
 3. Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper
-4. Intelligence Cycle
-5. Richards J. Heuer's Psychology of Intelligence Analysis (big book)
-
-
-
-
-
+4. Richards J. Heuer's Psychology of Intelligence Analysis (big book)
