@@ -1,11 +1,11 @@
 ⚔️ I am following Katie Nickels A Cyber Threat Intelligence Self-Study Plan: Part 1 and A Top 10 Reading List if You’re Getting Started in Cyber Threat Intelligence. I'm also following Scott J Roberts CTI Reading List. My plan is to do bug bounty hunting in the morning and then read CTI material in the evening.
 
-Week One - Four (May 2023)
+**Week One - Four (May 2023)**
 1. Cliff Stoll's The Cuckoo's Egg 
 Progress update: have been sick so reading this instead. 
 Note: analogy robber going from house to house trying to open the front door, sometimes tries a window
 
-1 June 2023
+**1 June 2023**
 Back from a road trip. Was talking to my co-driver about The Cuckoo's Egg - about the above analogy
 
 6 June 2023
