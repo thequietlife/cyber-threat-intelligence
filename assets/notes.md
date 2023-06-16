@@ -50,7 +50,6 @@ Sherman Kent and the Profession of Intelligence Analysis, Occasional Papers: Vol
 | 9. Candid Admission of Mistakes | review performance to search for improved practices as well as to study mistakes |
 
 Next
-2. Sherman Kent and the Profession of Intelligence Analysis, Occasional Papers: Volume 1, Number 5
 3. Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper
 4. Intelligence Cycle
 5. Richards J. Heuer's Psychology of Intelligence Analysis (big book)
