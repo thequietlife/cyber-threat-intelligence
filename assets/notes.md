@@ -8,10 +8,10 @@ Note: analogy robber going from house to house trying to open the front door, so
 **1 June 2023**
 Back from a road trip. Was talking to my co-driver about The Cuckoo's Egg - about the above analogy
 
-6 June 2023
+**6 June 2023**
 Finished Cliff Stoll's The Cuckoo's Egg. So not high tech abilities. Just persistence. Trying different ways to log on using a small range of passwords. Like 'admin', 'admin'. Last week I read a pen test report Volkis released. There was a list of passwords that the client's team members were using which included 'Welcome1' and variations of 'pa$$w0rd'. eek. 1989 vs 2023. 
 
-14 June 2023
+**13 June 2023**
 Reading Mandiant's CTI Analyst Core Competencies Framework
 
 | CTI Analyst | Core Competencies Pillars|
@@ -21,9 +21,7 @@ Reading Mandiant's CTI Analyst Core Competencies Framework
 | Technical Literacy | enterprise IT networks, cyber security ecosystem, roles and responsibilities |
 | Cyber Threat Proficiency | drivers of offensive operations, threat concepts and frameworks, threat actors and tactics, techniques, and procedures (TTPs) |
 
-refresh on making a table in markdown
-
-14 June 2023
+**14 June 2023**
 Had a look at Cosive's Cyber Threat Intelligence (CTI) Crash Course
 
 Watched Cyber Threat Intelligence Explained and How Install MISP Threat Intelligence Platform with Docker, John Hubbard - referred to in the Cosive blog post
@@ -36,7 +34,7 @@ Watched Cyber Threat Intelligence Explained and How Install MISP Threat Intellig
 
 Had a look at MISP. pretty cool open source
 
-16 June 2023
+**16 June 2023**
 Sherman Kent and the Profession of Intelligence Analysis, Occasional Papers: Volume 1, Number 5 
 
 | Sherman Kent’s analytic doctrine | 9 principles |
