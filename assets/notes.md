@@ -36,6 +36,27 @@ Watched Cyber Threat Intelligence Explained and How Install MISP Threat Intellig
 
 Had a look at MISP. pretty cool open source
 
+16 June 2023
+Sherman Kent’s analytic doctrine https://www.cia.gov/static/aa47b490ac1c52c04c467a248c5cbace/Kent-Profession-Intel-Analysis.pdf
+| 9 principles |
+| --- | --- |
+| 1. Focus on Policymaker Concerns | analysts bring mastery of background knowledge, evaluation and structuring of all-source material, and tradecraft expertise; produce provide “actionable” intelligence |
+| 2. Avoidance of a Personal Policy Agenda | identify and
+evaluate alternatives |
+| 3. Intellectual Rigor | information is rigorously evaluated for validity. evaluated and organized data |
+| 4. Conscious Effort to Avoid Analytic Biases | resist the
+tendency to see what they expect to see in the information. make working assumptions explicit and to challenge them vigorously |
+| 5. Willingness to Consider Other Judgments | assemble room 20 or 30 analysts with a wide range of factual expertise and points of
+view to review a draft assessment, at times fighting their way through the text
+paragraph by paragraph |
+| 6. Systematic Use of Outside Experts | consider a wide range of
+outside opinions. News media accounts and general and specialized journals should be reviewed
+for the same purposes |
+| 7. Collective Responsibility for Judgment | permit challenge and refinement of data and judgment. represent and defend the appropriate corporate point of view |
+| 8. Effective communication of policy-support information and judgments | shorter is usually better, with key points stated
+quickly. But clarity of judgment is also essential |
+| 9. Candid Admission of Mistakes | review performance to search for improved practices as
+well as to study mistakes |
 
 Next
 2. Sherman Kent and the Profession of Intelligence Analysis, Occasional Papers: Volume 1, Number 5
