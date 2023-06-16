@@ -53,7 +53,8 @@ Sherman Kent and the Profession of Intelligence Analysis, Occasional Papers: Vol
 Intelligence Cycle
 six steps: requirements, planning and direction, collection, processing and exploitation, analysis and production, and dissemination. The cycle is circular in nature and the movement between the steps is fluid.
 
+**17 June 2023**
+Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper -  fundamental principles of CTI
 
-Next
-3. Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper
-4. Richards J. Heuer's Psychology of Intelligence Analysis (big book)
+
+Next: Richards J. Heuer's Psychology of Intelligence Analysis (big book)
