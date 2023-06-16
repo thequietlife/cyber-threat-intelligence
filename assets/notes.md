@@ -37,6 +37,7 @@ Watched Cyber Threat Intelligence Explained and How Install MISP Threat Intellig
 Had a look at MISP. pretty cool open source
 
 16 June 2023
+Sherman Kent and the Profession of Intelligence Analysis, Occasional Papers: Volume 1, Number 5 
 
 | Sherman Kent’s analytic doctrine | 9 principles |
 | --- | --- |
