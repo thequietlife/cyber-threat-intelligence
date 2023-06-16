@@ -37,8 +37,8 @@ Watched Cyber Threat Intelligence Explained and How Install MISP Threat Intellig
 Had a look at MISP. pretty cool open source
 
 16 June 2023
-Sherman Kent’s analytic doctrine https://www.cia.gov/static/aa47b490ac1c52c04c467a248c5cbace/Kent-Profession-Intel-Analysis.pdf
-| 9 principles |
+
+| Sherman Kent’s analytic doctrine | 9 principles |
 | --- | --- |
 | 1. Focus on Policymaker Concerns | analysts bring mastery of background knowledge, evaluation and structuring of all-source material, and tradecraft expertise; produce provide “actionable” intelligence |
 | 2. Avoidance of a Personal Policy Agenda | identify and
