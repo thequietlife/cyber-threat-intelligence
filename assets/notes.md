@@ -55,6 +55,14 @@ six steps: requirements, planning and direction, collection, processing and expl
 
 **17 June 2023**
 Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper -  fundamental principles of CTI
+- threat intel kinda like weather forecasting
+- prepare to protect before, during and afters
+- "3 question rule": threat, impact, action
+- context is 👑
+- threat intel = 1. context, 2. action
+
+- check out Diamond model
+- (ICS) kill chain
 
 
 Next: Richards J. Heuer's Psychology of Intelligence Analysis (big book)
