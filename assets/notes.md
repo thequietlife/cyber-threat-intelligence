@@ -64,5 +64,8 @@ Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper -  fundame
 - check out Diamond model
 - (ICS) kill chain
 
+**18 June 2023**
+Watching Mimi talk about how CTI is done at her work
+https://youtu.be/JfhpYp--N3c
 
 Next: Richards J. Heuer's Psychology of Intelligence Analysis (big book)
