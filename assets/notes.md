@@ -65,7 +65,11 @@ Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper -  fundame
 - (ICS) kill chain
 
 **18 June 2023**
+Looking at CTI analyst job ads to see what skills, tools are used
+
 Watching Mimi talk about how CTI is done at her work
 https://youtu.be/JfhpYp--N3c
+
+so good
 
 Next: Richards J. Heuer's Psychology of Intelligence Analysis (big book)
