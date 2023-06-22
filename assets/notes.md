@@ -61,15 +61,18 @@ Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper -  fundame
 - context is 👑
 - threat intel = 1. context, 2. action
 
+
   Commponents of an effective defense
 - detection: identify active threats using threat behaviour analytics
 - response: mitigate detected threats through incident response
 - prevention: proactively prevent through policy, education and technology
 
+
 - Threat intel categories
 - interested adversaries
 - direct impact
 - indirect impact
+  
 
 - Vulnerability analyis: finding vulns in your systems which an adversary could use
 
