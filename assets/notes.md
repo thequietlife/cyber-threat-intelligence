@@ -61,11 +61,30 @@ Sergio Caltagirone, Industrial Control Threat Intelligence Whitepaper -  fundame
 - context is 👑
 - threat intel = 1. context, 2. action
 
+  Commponents of an effective defense
+- detection: identify active threats using threat behaviour analytics
+- response: mitigate detected threats through incident response
+- prevention: proactively prevent through policy, education and technology
+
+- Threat intel categories
+- interested adversaries
+- direct impact
+- indirect impact
+
+- Vulnerability analyis: finding vulns in your systems which an adversary could use
+
+- Measuring Threat Intel Quality
+  **CART**
+  1. Completeness
+  2. Accuracy
+  3. Relevance
+  4. Timeliness
+    
 - check out Diamond model
 - (ICS) kill chain
 
 **18 June 2023**
-Looking at CTI analyst job ads to see what skills, tools are used
+Looking at CTI analyst job ads to see what skills, tools are used - e.g. spin up AWS
 
 Watching Mimi talk about how CTI is done at her work
 https://youtu.be/JfhpYp--N3c
