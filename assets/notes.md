@@ -94,4 +94,5 @@ https://youtu.be/JfhpYp--N3c
 
 so good
 
-Next: Richards J. Heuer's Psychology of Intelligence Analysis (big book)
+**26 June 2023**
+Reading Richards J. Heuer's Psychology of Intelligence Analysis 
