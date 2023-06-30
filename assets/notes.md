@@ -96,3 +96,6 @@ so good
 
 **26 June 2023**
 Reading Richards J. Heuer's Psychology of Intelligence Analysis 
+
+**30 June 2023**
+Having a look at ATT&CK. It was covered a bit in the incident training I did.
