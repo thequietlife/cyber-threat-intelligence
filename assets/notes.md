@@ -100,5 +100,5 @@ Reading Richards J. Heuer's Psychology of Intelligence Analysis
 **30 June 2023**
 Having a look at ATT&CK. It was covered a bit in the incident training I did.
 
-***10 + 11 Jul**
+**10 + 11 Jul**
 Thinking about a post I saw about the Ethics of hacking back
